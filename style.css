@@ -1,0 +1,57 @@
+/* Tổng thể */
+body {
+    background-color: #121212;
+    color: #f5f5f5;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #1c1c1c;
+}
+
+.hero {
+    padding: 100px 0;
+    background-color: #222;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+}
+
+.hero .highlight {
+    color: #f39c12;
+}
+
+.btn-primary {
+    background-color: #f39c12;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #e67e22;
+}
+
+section {
+    padding: 60px 0;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.skill-icon {
+    font-size: 40px;
+    color: #f39c12;
+    margin-bottom: 10px;
+}
+
+.project img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #1c1c1c;
+}
